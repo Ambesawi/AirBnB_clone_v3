@@ -83,3 +83,10 @@ class DBStorage:
                 if key.split(".")[1] == id:
                     return value
         return None
+
+    def count(self, cls=None):
+        """ counts """
+        data = self.all(cls)
+        if cls in classes.values():
+            data = self.all(cls)
+        return len(data)
