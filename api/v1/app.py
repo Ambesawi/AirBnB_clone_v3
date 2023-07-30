@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-first endpoint (route) will be to return the status of your API
+This module contains the principal application
 """
 from models import storage
 from api.v1.views import app_views
