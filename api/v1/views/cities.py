@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This file contains the City module
+This is the City module
 """
 from api.v1.views import app_views
 from flask import jsonify, abort, request, make_response
