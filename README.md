@@ -36,4 +36,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
-* Run hbnb(non-interactively): `echo "<command>" | ./console.py`
+* Run hbnb(non-interactively): `echo "<command>" | ./console.py` 
